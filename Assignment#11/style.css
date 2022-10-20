@@ -1,0 +1,68 @@
+* {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.con {
+    background-color: #f5f7fc;
+}
+.img3 {
+    width: 100%;
+}
+.img {
+    width: 100px;
+}
+.img img {
+    width: 100%;
+    opacity: 0.5;
+}
+.img img:hover {
+    opacity: 1;
+    transition: 0.5s;
+    
+}
+.fon {
+    font-size: large;
+}
+h1,h2,h3,h4,span {
+    color: #071e55;
+    font-family: 'Nunito', sans-serif;
+}
+.con1 {
+    background-image: url(https://demo.epic-webdesign.com/tf-launchpage/v3/images/bg3.jpg);
+    background-attachment: fixed;
+    
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+}
+.con12 {
+    background-color: rgba(255, 0, 0, 0.887);
+}
+.imgs {
+    width: 70px;
+}
+.brd {
+    border-left: green solid 5px;
+}
+.transp {
+    background: none;
+    border: #f5f7fc solid 2px;
+    border-radius: 4px;
+    /* width: 295px;
+    height: 50px;
+    min-width: 200px; */
+}
+.transp2 {
+    background: none;
+    border: #f5f7fc solid 2px;
+    border-radius: 4px;
+    /* min-width: 200px; */
+    
+}
+input::placeholder, textarea::placeholder {
+    color: #f5f7fc;
+}
+a {
+    color: red;
+}
